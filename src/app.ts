@@ -34,7 +34,7 @@ class App {
         "https://maps.googleapis.com/maps/api/geocode/json",
         {
           params: {
-            key: "AIzaSyCBp60zgHtEYvt_6yc-lNrX6iFUOIqQfko",
+            key: "SUA_API_KEY_AQUI",
             address,
           },
         }
